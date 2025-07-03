@@ -1,0 +1,26 @@
+.bg-container {
+    background-image: url("https://img.freepik.com/free-vector/gradient-numerology-background_23-2150066813.jpg?semt=ais_items_boosted&w=740");
+    height: 100vh;
+    background-size: cover;
+}
+
+
+.heading {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.user-input {
+    width: 320px;
+}
+
+.spinner {
+    color: #ffffff;
+}
+
+.fact-text {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+}
